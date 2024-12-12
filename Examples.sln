@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.HelloWorld", "01.HelloWorld\01.HelloWorld.csproj", "{5CAE1815-B59C-4469-AC40-7CB54D4B7484}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.引用nuget包", "02.引用nuget包\02.引用nuget包.csproj", "{7AA481C3-DF47-4F26-8FDF-5B6D9897F0AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.ui控件预览", "04.ui控件预览\04.ui控件预览.csproj", "{00A092ED-0582-4DB5-9024-9FA24814ED0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.ocr文字识别", "03.ocr文字识别\03.ocr文字识别.csproj", "{5E6F4A13-6A7B-449C-BA29-4C0B70AEE4CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.简易悬浮窗", "05.简易悬浮窗\05.简易悬浮窗.csproj", "{853F3C64-F4A1-4D3E-8904-6D350F3EEFD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.选项卡", "06.选项卡\06.选项卡.csproj", "{12CAE134-6E7F-4F2F-A3FA-9029F4574ECD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CAE1815-B59C-4469-AC40-7CB54D4B7484}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CAE1815-B59C-4469-AC40-7CB54D4B7484}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CAE1815-B59C-4469-AC40-7CB54D4B7484}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CAE1815-B59C-4469-AC40-7CB54D4B7484}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AA481C3-DF47-4F26-8FDF-5B6D9897F0AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AA481C3-DF47-4F26-8FDF-5B6D9897F0AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AA481C3-DF47-4F26-8FDF-5B6D9897F0AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AA481C3-DF47-4F26-8FDF-5B6D9897F0AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00A092ED-0582-4DB5-9024-9FA24814ED0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00A092ED-0582-4DB5-9024-9FA24814ED0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00A092ED-0582-4DB5-9024-9FA24814ED0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00A092ED-0582-4DB5-9024-9FA24814ED0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E6F4A13-6A7B-449C-BA29-4C0B70AEE4CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E6F4A13-6A7B-449C-BA29-4C0B70AEE4CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E6F4A13-6A7B-449C-BA29-4C0B70AEE4CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E6F4A13-6A7B-449C-BA29-4C0B70AEE4CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{853F3C64-F4A1-4D3E-8904-6D350F3EEFD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{853F3C64-F4A1-4D3E-8904-6D350F3EEFD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{853F3C64-F4A1-4D3E-8904-6D350F3EEFD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{853F3C64-F4A1-4D3E-8904-6D350F3EEFD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12CAE134-6E7F-4F2F-A3FA-9029F4574ECD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12CAE134-6E7F-4F2F-A3FA-9029F4574ECD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12CAE134-6E7F-4F2F-A3FA-9029F4574ECD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12CAE134-6E7F-4F2F-A3FA-9029F4574ECD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
